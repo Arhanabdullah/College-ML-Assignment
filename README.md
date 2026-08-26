@@ -4,8 +4,8 @@ This repository contains all the Machine Learning assignments given during the f
 
 Repository structure (conventional):
 - /assignment-1  
-- assignment-2 
-- assignment-3  
+- /assignment-2 
+- /assignment-3  
 - ...
 
 How to use:
