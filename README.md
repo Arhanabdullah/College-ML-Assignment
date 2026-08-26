@@ -3,9 +3,9 @@
 This repository contains all the Machine Learning assignments given during the fifth semester (Semester 5). The repo is used to store assignment statements, Jupyter notebooks, Python scripts, reports, and any accompanying datasets (where permitted) submitted as part of the semester coursework.
 
 Repository structure (conventional):
-- assignment-1/  - Files for Assignment 1 (notebooks, scripts, reports, data)
-- assignment-2/  - Files for Assignment 2
-- assignment-3/  - Files for Assignment 3
+- /assignment-1  
+- assignment-2 
+- assignment-3  
 - ...
 
 How to use:
